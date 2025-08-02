@@ -10,10 +10,20 @@ This project analyzes how students' sleep and screen time relate to their academ
 
 ## Kye Findings
 - More sleep and less screen time are linked with better grades.
-- Younger students usually sleep more and spend less time on screens.
+- Students who maintain consistent bedtimes generally achieve higher academic performance.
 
 ## Tools Used
 Python, Pandas, Matplotlib, Jupyter Notebook
 
 ## Notes
 The original data is too large to upload, so only the cleaned version is shared. You can find it here [NSCH Survey Data 2023 - Official Source](https://www.kaggle.com/datasets/abthecreator/childrens-health-nsch-2023-survey-data)
+
+## How to Run
+
+1. Clone this repo  
+2. Open notebooks in Jupyter
+3. Run cells step-by-step to see the analysis and charts
+
+---
+
+Feel free to ask me questions or suggest collaboration opportunities!
